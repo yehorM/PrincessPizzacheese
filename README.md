@@ -29,7 +29,7 @@ git clone https://github.com/yehorM/forE9241.git
 >```
 >cd /d X:\Repo
 >```
-![image](https://github.com/user-attachments/assets/3772ddfd-c00d-4cc9-bb0e-40e84c49adc3)
+![image](https://github.com/user-attachments/assets/43755788-0546-4ed5-893d-2785f6cb69fb)
 
 
 Oh, BTW, you will need to press the button  
