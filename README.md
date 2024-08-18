@@ -1,7 +1,8 @@
 # forE9241
 For my bro^^  
 
-![1](https://github.com/user-attachments/assets/81ab7d94-fb61-46b4-afac-998987ff51f1)
+![image](https://github.com/user-attachments/assets/1d2ecf1e-67e5-4fa6-92b8-8959dfb28650)
+
 ![image](https://github.com/user-attachments/assets/2c884d90-c77d-4e27-b007-1226255d6e9c)
 Download and install from [here](https://git-scm.com/download/win)  
 During installation press 'next-next-next' ^.^
