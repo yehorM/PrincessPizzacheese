@@ -40,8 +40,10 @@ do like this
 
 ```
 cd Pop-Goes-The-Idol-
-git add .
 ```
+
+Git branches
+https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-2ec4-620a-b860-ffb69a8b9853/raw?se=2025-05-17T20%3A42%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-17T06%3A34%3A08Z&ske=2025-05-18T06%3A34%3A08Z&sks=b&skv=2024-08-04&sig=tF9S9U9XeXFAMLq8t6XS5xulVSnLTmhTlFPkic7/O7k%3D
 
 ![image](https://github.com/user-attachments/assets/1cc0e607-a550-4caa-a0f0-f48e1bcc44d4)
 
