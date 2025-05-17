@@ -1,10 +1,8 @@
-# PrincessPizzacheese
-TODO: add steps about branches. 
 
 ![image](https://github.com/user-attachments/assets/1d2ecf1e-67e5-4fa6-92b8-8959dfb28650)
 ![image](https://github.com/user-attachments/assets/045d12ee-0164-406b-845e-1c62d49f32c5)
 Download and install from [here](https://git-scm.com/download/win)  
-During installation press 'next-next-next' ^.^
+During installation press next-next-next
 
 ![image](https://github.com/user-attachments/assets/21132fe3-64bb-42aa-9140-ed2c78c007b7)
 Then do like this (below goes text for copy/paste)  
@@ -21,7 +19,7 @@ do like this (below goes text for copy/paste)
 ![image](https://github.com/user-attachments/assets/f2b69639-e8c2-4fd9-b1ae-f996ef4e8acf)
 ```
 cd C:\Repo  
-git clone https://github.com/yehorM/forE9241.git
+git clone https://github.com/yehorM/Jams-Bond.git
 ```
 
 > [!IMPORTANT]
@@ -39,11 +37,18 @@ do like this
 ![image](https://github.com/user-attachments/assets/089cf9ae-527d-446b-a66b-203a15a90cd2)
 
 ```
-cd Pop-Goes-The-Idol-
+cd Jams-Bond
+git pull
 ```
 
-Git branches
-https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-2ec4-620a-b860-ffb69a8b9853/raw?se=2025-05-17T20%3A42%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-17T06%3A34%3A08Z&ske=2025-05-18T06%3A34%3A08Z&sks=b&skv=2024-08-04&sig=tF9S9U9XeXFAMLq8t6XS5xulVSnLTmhTlFPkic7/O7k%3D
+Let's create a branch where all your changes will go
+![git branches](https://github.com/user-attachments/assets/60107b6c-633c-4ce3-bdc9-e5b3c3941680)
+
+Code for copy/paste, replace 'write_here_some_branch_name' with a name of your branch:
+```
+git branch write_here_some_branch_name
+git switch write_here_some_branch_name
+```
 
 ![image](https://github.com/user-attachments/assets/1cc0e607-a550-4caa-a0f0-f48e1bcc44d4)
 
@@ -51,10 +56,9 @@ OK, now the following procedure will remain
 ![image](https://github.com/user-attachments/assets/23550fff-9753-4dc9-a24a-cdf2b03eda09)
 
 ```
-git pull
 git add .
 git commit -m "Describe your changes here"
-git push origin main
+git push -u origin write_here_some_branch_name
 ```
 > [!IMPORTANT]
 > NOTE! Double quotes here are important - only double quotes (") will work, single quotes (') do not work here!
